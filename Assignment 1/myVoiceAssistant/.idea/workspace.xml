@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9edbd161-c47e-4a46-a85f-90b6ea5e85dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s19h6wWWFNS3MpIf22xj2TngEL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.front-end">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="myVoiceAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Applications/Anaconda-Navigator.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="front-end" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myVoiceAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/front-end.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hellotimer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myVoiceAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resources" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resources/hellotimer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myVoiceAssistant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myVoiceAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myVoiceAssistant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myVoiceAssistant" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lab1-asr" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lab1-asr/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.myVoiceAssistant" />
+      <item itemvalue="Python.hellotimer" />
+      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.front-end" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.front-end" />
+        <item itemvalue="Python.myVoiceAssistant" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.hellotimer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9edbd161-c47e-4a46-a85f-90b6ea5e85dc" name="Default Changelist" comment="" />
+      <created>1620029344030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620029344030</updated>
+      <workItem from="1620029345437" duration="30797000" />
+      <workItem from="1620615907617" duration="26506000" />
+      <workItem from="1621000832228" duration="140000" />
+      <workItem from="1622172640633" duration="820000" />
+      <workItem from="1624451464175" duration="689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620745134089">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1620029514649" />
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816@0.23.1440.816" timestamp="1620745134089" />
+    <state x="413" y="79" key="#myVoiceAssistant" timestamp="1620981146067">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="79" key="#myVoiceAssistant/0.0.1440.900@0.0.1440.900" timestamp="1620981146067" />
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom" timestamp="1624452177746">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624452177746" />
+    <state width="1398" height="86" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1622202064047" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620999488970" />
+    <state width="973" height="133" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1620820895894" />
+    <state width="973" height="133" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1620746667143" />
+    <state width="973" height="133" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1620747257605" />
+    <state width="1398" height="283" key="GridCell.Tab.0.center" timestamp="1624452177744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624452177744" />
+    <state width="1398" height="86" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1622202064045" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1620999488969" />
+    <state width="973" height="133" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1620820895893" />
+    <state width="973" height="133" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1620746667143" />
+    <state width="973" height="133" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1620747257604" />
+    <state width="1398" height="283" key="GridCell.Tab.0.left" timestamp="1624452177742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624452177742" />
+    <state width="1398" height="86" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1622202064044" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1620999488969" />
+    <state width="973" height="133" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1620820895892" />
+    <state width="973" height="133" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1620746667142" />
+    <state width="973" height="133" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1620747257604" />
+    <state width="1398" height="283" key="GridCell.Tab.0.right" timestamp="1624452177745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624452177745" />
+    <state width="1398" height="86" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1622202064046" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1620999488969" />
+    <state width="973" height="133" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1620820895894" />
+    <state width="973" height="133" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1620746667143" />
+    <state width="973" height="133" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1620747257605" />
+    <state width="1398" height="177" key="GridCell.Tab.1.bottom" timestamp="1620999488963">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="177" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620888099126" />
+    <state width="973" height="126" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1620818492051" />
+    <state width="1398" height="177" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1620999488963" />
+    <state width="704" height="303" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1620734605163" />
+    <state width="1398" height="177" key="GridCell.Tab.1.center" timestamp="1620999488963">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="177" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1620888099125" />
+    <state width="973" height="126" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1620818492050" />
+    <state width="1398" height="177" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1620999488963" />
+    <state width="704" height="303" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1620734605162" />
+    <state width="1398" height="177" key="GridCell.Tab.1.left" timestamp="1620999488962">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="177" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1620888099125" />
+    <state width="973" height="126" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1620818492050" />
+    <state width="1398" height="177" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1620999488962" />
+    <state width="704" height="303" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1620734605161" />
+    <state width="1398" height="177" key="GridCell.Tab.1.right" timestamp="1620999488963">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1398" height="177" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1620888099125" />
+    <state width="973" height="126" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1620818492050" />
+    <state width="1398" height="177" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1620999488963" />
+    <state width="704" height="303" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1620734605162" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1620029501093">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1620029501093" />
+    <state x="374" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1621002653387">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="374" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1621002653387" />
+    <state x="272" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1620746861227">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="272" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1620746861227" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myVoiceAssistant.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myVoiceAssistant.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myVoiceAssistant.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myVoiceAssistant$myVoiceAssistant.coverage" NAME="myVoiceAssistant Coverage Results" MODIFIED="1624451519675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myVoiceAssistant$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1622172651148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lab1-asr" />
+    <SUITE FILE_PATH="coverage/myVoiceAssistant$front_end.coverage" NAME="front-end Coverage Results" MODIFIED="1624451825946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myVoiceAssistant$hellotimer.coverage" NAME="hellotimer Coverage Results" MODIFIED="1620047290990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resources" />
+  </component>
+</project>
